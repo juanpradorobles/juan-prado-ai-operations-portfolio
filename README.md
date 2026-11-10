@@ -22,7 +22,7 @@ The WeDo demo is a controlled mockup. All names, records, and figures are fictio
 
 The Knowledge Center page is based on the original document provided for this portfolio. It retains the document’s role-based sections, operating guidance, Vantaca workflows, scripts, templates, controls, and procedure-gap register. Organization and employee names, company email and portal details, payment mailing address, and a password example are removed or replaced with generic labels. The source file itself is not included.
 
-**The source document labels itself “Internal Use Only” and says not to share externally. The redacted version is prepared for review and is not published yet.**
+**The source document labels itself “Internal Use Only” and says not to share externally. This portfolio includes a redacted copy; organization and employee names, company contacts, payment mailing details, and a password example were removed or replaced. The original source file is not included.**
 
 ### View locally
 
@@ -50,7 +50,7 @@ El demo de WeDo es un mockup controlado con nombres, registros y valores fictici
 
 La página Knowledge Center parte del documento original que se compartió para este portafolio. Conserva sus secciones por rol, guías operativas, flujos de Vantaca, guiones, plantillas, controles y registro de brechas de procedimiento. Se quitaron o sustituyeron con etiquetas genéricas los nombres de la organización y empleados, correo y portal corporativos, dirección postal de pagos y un ejemplo de contraseña. El archivo fuente no se incluye.
 
-**El documento fuente se identifica como “Internal Use Only” e indica que no debe compartirse externamente. La versión redactada está preparada para revisión y aún no se publica.**
+**El documento fuente se identifica como “Internal Use Only” e indica que no debe compartirse externamente. Este portafolio incluye una copia redactada; se quitaron o sustituyeron nombres de la organización y empleados, contactos corporativos, datos postales de pago y un ejemplo de contraseña. El archivo fuente original no se incluye.**
 
 ### Ver localmente
 
